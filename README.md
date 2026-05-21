@@ -8,6 +8,10 @@ Unity Client Developer를 목표로 공부하고 있습니다.
 - C#
 - Input System
 - UniTask
+- Addresables
+- Unity 3D
+- Unity 2D
+- Network
 
 ## 📚 Currently Learning
 
@@ -15,6 +19,8 @@ Unity Client Developer를 목표로 공부하고 있습니다.
 - Design Pattern
 - Optimization
 - Gameplay System
+- AR
+- VR
 
 ## 🚀 Projects
 
