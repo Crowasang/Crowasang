@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi, I'm Crowasang
 
-<!--
-**Crowasang/Crowasang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Unity Client Developer를 목표로 공부하고 있습니다.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Unity
+- C#
+- Input System
+- UniTask
+
+## 📚 Currently Learning
+
+- Game Programming
+- Design Pattern
+- Optimization
+- Gameplay System
+
+## 🚀 Projects
+
+| Project | Description |
+|---|---|
+| Inventory System | 인벤토리 및 장비 시스템 |
+| FSM Controller | 상태 기반 플레이어 제어 |
+| Dialogue System | 대화 시스템 구현 |
+| Object Pooling | 오브젝트 풀링 시스템 |
+
